@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   textStyle:{
-    fontSize:24
+    fontSize:24,
+    fontWeight:'bold'
   },
 });
